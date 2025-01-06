@@ -1,0 +1,93 @@
+/usr/local/lib/python3.10/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
+The secret `HF_TOKEN` does not exist in your Colab secrets.
+To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
+You will be able to reuse this secret in all of your notebooks.
+Please note that authentication is recommended but still optional to access public models or datasets.
+  warnings.warn(
+config.json: 100%
+ 502/502 [00:00<00:00, 36.5kB/s]
+model.safetensors: 100%
+ 346M/346M [00:05<00:00, 44.3MB/s]
+Some weights of ViTForImageClassification were not initialized from the model checkpoint at google/vit-base-patch16-224-in21k and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Epoch 1, Loss: 0.21151710483126152
+Epoch 2, Loss: 0.035634478410849206
+Epoch 3, Loss: 0.01867697688822563
+Epoch 4, Loss: 0.013823262630746914
+Epoch 5, Loss: 0.01073739460359017
+Epoch 6, Loss: 0.008571861037172569
+Epoch 7, Loss: 0.007003880583514006
+Epoch 8, Loss: 0.0058260998951318935
+Epoch 9, Loss: 0.004913399234796181
+Epoch 10, Loss: 0.004205187066243245
+Epoch 11, Loss: 0.003632854228504957
+Epoch 12, Loss: 0.0031691563244049367
+Epoch 13, Loss: 0.002789360315849384
+Epoch 14, Loss: 0.002470732230740862
+Epoch 15, Loss: 0.0022071928311234866
+Epoch 16, Loss: 0.001975609100041672
+Epoch 17, Loss: 0.0017831688776660042
+Epoch 18, Loss: 0.0016184671728227001
+Epoch 19, Loss: 0.001470723869995429
+Epoch 20, Loss: 0.0013452968619859372
+Epoch 21, Loss: 0.0012349721360712862
+Epoch 22, Loss: 0.0011336141570399587
+Epoch 23, Loss: 0.0010481413829928408
+Epoch 24, Loss: 0.000967902229883923
+Epoch 25, Loss: 0.0008988704917450937
+Epoch 26, Loss: 0.0008352128102276952
+Epoch 27, Loss: 0.0007786707630237708
+Epoch 28, Loss: 0.0007265570263067881
+Epoch 29, Loss: 0.0006810206313951848
+Epoch 30, Loss: 0.0006377906075869807
+Epoch 31, Loss: 0.0005989919762867383
+Epoch 32, Loss: 0.0005632458189024758
+Epoch 33, Loss: 0.0005303710290135291
+Epoch 34, Loss: 0.0004997321080643302
+Epoch 35, Loss: 0.0004725845639581959
+Epoch 36, Loss: 0.00044556538640067744
+Epoch 37, Loss: 0.0004221980030146929
+Epoch 38, Loss: 0.0004005619445636582
+Epoch 39, Loss: 0.0003794828543248467
+Epoch 40, Loss: 0.0003607198140786913
+Epoch 41, Loss: 0.00034246699084551673
+Epoch 42, Loss: 0.0003259720755382799
+Epoch 43, Loss: 0.00031035881749211025
+Epoch 44, Loss: 0.00029559960388817277
+Epoch 45, Loss: 0.0002818733128384711
+Epoch 46, Loss: 0.00026908851055523905
+Epoch 47, Loss: 0.00025706154067451373
+Epoch 48, Loss: 0.000245250682779349
+Epoch 49, Loss: 0.00023477793057771542
+Epoch 50, Loss: 0.00022462701674204512
+Epoch 51, Loss: 0.00021529340338952935
+Epoch 52, Loss: 0.000205833309267361
+Epoch 53, Loss: 0.00019719113427130744
+Epoch 54, Loss: 0.00018915708530515147
+Epoch 55, Loss: 0.00018152986460616096
+Epoch 56, Loss: 0.00017417905604442916
+Epoch 57, Loss: 0.00016730814539373686
+Epoch 58, Loss: 0.00016084902931768924
+Epoch 59, Loss: 0.00015422242554800154
+Epoch 60, Loss: 0.00014844377419182984
+Epoch 61, Loss: 0.0001426210585169685
+Epoch 62, Loss: 0.00013731840068104272
+Epoch 63, Loss: 0.00013221781148623006
+Epoch 64, Loss: 0.00012719526757092142
+Epoch 65, Loss: 0.00012279840489216626
+Epoch 66, Loss: 0.0001183956876794139
+Epoch 67, Loss: 0.00011381566414806562
+Epoch 68, Loss: 0.00010966095336092015
+Epoch 69, Loss: 0.00010589856052926432
+Epoch 70, Loss: 0.00010200160259279446
+Epoch 71, Loss: 9.843810701754708e-05
+Epoch 72, Loss: 9.497548960961211e-05
+Epoch 73, Loss: 9.174179285764694e-05
+Epoch 74, Loss: 8.843779095257513e-05
+Epoch 75, Loss: 8.538164211831127e-05
+Epoch 76, Loss: 8.248226722338214e-05
+Epoch 77, Loss: 7.976396199620258e-05
+Epoch 78, Loss: 7.704391240482577e-05
+Epoch 79, Loss: 7.436700383177362e-05
+Epoch 80, Loss: 7.18876003819064e-05
+Accuracy: 100.00%
