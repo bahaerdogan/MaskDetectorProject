@@ -4,6 +4,12 @@
 This project focuses on implementing and comparing different deep learning architectures to address the problem of mask detection in images. The primary models used include YOLOv11 (You Only Look Once version 11), a Convolutional Neural Network (CNN), and a Vision Transformer (ViT). The goal is to achieve high accuracy, mitigate overfitting, and balance precision-recall metrics across different mask-related categories ("with mask," "without mask," "mask worn incorrectly").
 
 ---
+##To run and try models:
+Yolo model training colab link:https://colab.research.google.com/drive/1S--p8ydTdBMglIIuktQWmf5y4zLS8TQA?usp=sharing
+
+CNN model training colab link:https://colab.research.google.com/drive/16e6cV7zKVKnd6P-xtqUOnSOwriCUfImj?usp=sharing
+
+VIT model training colab link:https://colab.research.google.com/drive/17Y0CYewPHpkggleafXGXju1AhgsLsWEU?usp=sharing
 
 ## Models and Architectures
 
