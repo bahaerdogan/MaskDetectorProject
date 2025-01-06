@@ -74,8 +74,4 @@ This project focuses on implementing and comparing different deep learning archi
 
 
 
-## Future Work
-- Integrating ViT with region proposal networks like DETR for improved handling of overlapping objects.
-- Further data augmentation and regularization techniques to enhance model robustness.
-- Experimenting with additional datasets to improve generalization across broader scenarios.
 
