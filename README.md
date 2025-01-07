@@ -11,7 +11,7 @@ This project focuses on implementing and comparing different deep learning archi
 
 
 **CNN model training colab link:https://colab.research.google.com/drive/16e6cV7zKVKnd6P-xtqUOnSOwriCUfImj?usp=sharing**
-- You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
+- You must have an dataset in the specified location. (/content/drive/MyDrive/CNNDataset)
 - For this training Dataset must be in the CNN format. For more info: https://datascience.stackexchange.com/questions/48390/how-do-i-build-an-image-dataset-for-cnn
 
 
