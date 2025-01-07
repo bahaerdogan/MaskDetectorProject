@@ -16,7 +16,7 @@ This project focuses on implementing and comparing different deep learning archi
 
 
 **VIT model training colab link:https://colab.research.google.com/drive/17Y0CYewPHpkggleafXGXju1AhgsLsWEU?usp=sharing**
-- You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
+- You must have an dataset in the specified location. (/content/drive/MyDrive/VITformat)
 - For this training Dataset must be in the CNN format. For more info: https://viso.ai/deep-learning/vision-transformer-vit/
 
 ## Models and Architectures
