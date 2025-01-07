@@ -5,9 +5,9 @@ This project focuses on implementing and comparing different deep learning archi
 
 ---
 ## **To try training yourself:**
-## Yolo model training colab link:https://colab.research.google.com/drive/1S--p8ydTdBMglIIuktQWmf5y4zLS8TQA?usp=sharing
-## You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
-## For this training Dataset must be in the YOLO format. For more info: https://docs.ultralytics.com/datasets/detect/
+- Yolo model training colab link:https://colab.research.google.com/drive/1S--p8ydTdBMglIIuktQWmf5y4zLS8TQA?usp=sharing
+- You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
+- For this training Dataset must be in the YOLO format. For more info: https://docs.ultralytics.com/datasets/detect/
 
 
 CNN model training colab link:https://colab.research.google.com/drive/16e6cV7zKVKnd6P-xtqUOnSOwriCUfImj?usp=sharing
