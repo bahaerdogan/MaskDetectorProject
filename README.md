@@ -10,9 +10,14 @@ This project focuses on implementing and comparing different deep learning archi
 - For this training Dataset must be in the YOLO format. For more info: https://docs.ultralytics.com/datasets/detect/
 
 
-CNN model training colab link:https://colab.research.google.com/drive/16e6cV7zKVKnd6P-xtqUOnSOwriCUfImj?usp=sharing
+**CNN model training colab link:https://colab.research.google.com/drive/16e6cV7zKVKnd6P-xtqUOnSOwriCUfImj?usp=sharing**
+- You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
+- For this training Dataset must be in the CNN format. For more info: https://datascience.stackexchange.com/questions/48390/how-do-i-build-an-image-dataset-for-cnn
 
-VIT model training colab link:https://colab.research.google.com/drive/17Y0CYewPHpkggleafXGXju1AhgsLsWEU?usp=sharing
+
+**VIT model training colab link:https://colab.research.google.com/drive/17Y0CYewPHpkggleafXGXju1AhgsLsWEU?usp=sharing**
+- You must have an dataset in the specified location. (/content/drive/MyDrive/XXXDATASETXXX)
+- For this training Dataset must be in the CNN format. For more info: https://viso.ai/deep-learning/vision-transformer-vit/
 
 ## Models and Architectures
 
